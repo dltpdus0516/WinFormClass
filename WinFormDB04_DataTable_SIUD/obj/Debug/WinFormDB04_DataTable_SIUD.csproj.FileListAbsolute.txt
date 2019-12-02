@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\bin\Debug\WinFormDB04_DataTable_SIUD.exe.config
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\bin\Debug\WinFormDB04_DataTable_SIUD.exe
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\bin\Debug\WinFormDB04_DataTable_SIUD.pdb
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.Form1.resources
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.Properties.Resources.resources
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.exe
+C:\Users\USER\source\repos\WinFormDB\WinFormDB04_DataTable_SIUD\obj\Debug\WinFormDB04_DataTable_SIUD.pdb

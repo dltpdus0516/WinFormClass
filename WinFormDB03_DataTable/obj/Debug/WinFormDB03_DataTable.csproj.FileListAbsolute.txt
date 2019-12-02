@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\bin\Debug\WinFormDB03_DataTable.exe.config
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\bin\Debug\WinFormDB03_DataTable.exe
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\bin\Debug\WinFormDB03_DataTable.pdb
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\obj\Debug\WinFormDB03_DataTable.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\obj\Debug\WinFormDB03_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\obj\Debug\WinFormDB03_DataTable.exe
+C:\Users\USER\source\repos\WinFormDB\WinFormDB03_DataTable\obj\Debug\WinFormDB03_DataTable.pdb

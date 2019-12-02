@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\WinFormDB\WinFormDB_Project\obj\Debug\WinFormDB_Project.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB_Project\obj\Debug\WinFormDB_Project.Properties.Resources.resources
+C:\Users\USER\source\repos\WinFormDB\WinFormDB_Project\obj\Debug\WinFormDB_Project.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinFormDB\WinFormDB_Project\obj\Debug\WinFormDB_Project.csproj.CoreCompileInputs.cache
